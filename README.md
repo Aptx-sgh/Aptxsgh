@@ -6,7 +6,7 @@ thnsk fof vysit <3
 <img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=623528&style=flat-square&label=✨">  <div align="center">
 
 <img width="1076" height="444" alt="image" src="https://github.com/user-attachments/assets/44fc32b3-c4e2-4c1b-8e55-2d886d71b56a" />
-<img width="736" height="514" alt="image" src="https://github.com/user-attachments/assets/ea16d76b-f54e-47d5-9ffd-e45646db7e56" />
+<img width="936" height="514" alt="image" src="https://github.com/user-attachments/assets/ea16d76b-f54e-47d5-9ffd-e45646db7e56" />
 
 
 <img width="290" height="490" alt="Screenshot 2026-03-11 202617" src="https://github.com/user-attachments/assets/f952f5ee-67ca-4735-9a05-2c110bc528fa" align="right"/>
