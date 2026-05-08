@@ -10,6 +10,7 @@ thnsk fof vysit <3
 
 <div align="left"> <img width="50" height="50" alt="2c57c11a5eda862e873fa495ca954325" src="https://github.com/user-attachments/assets/1dcb3525-baff-4d70-af9e-756d4cd3267f" />
 <div align="center"> <img width="50" height="50" alt="aaf4cbebeef3ebe7190da5d2ba4cd0dc" src="https://github.com/user-attachments/assets/e4892b1d-b659-4d41-927b-7dec9beeff7a" />
+<div align="right"> <img width="480" height="492" alt="1052b306dbbd981b262928073b9014ab" src="https://github.com/user-attachments/assets/8310dd17-9e0e-4b44-bcfc-d7597b2cc48a" />
 
 
 ************
