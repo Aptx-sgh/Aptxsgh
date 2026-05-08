@@ -17,6 +17,7 @@ thnsk fof vysit <3
     <div align="center">
       <div align="center"> 
         <br> Youtube ;;
+<br> <a href="https://zingmp3.vn/bai-hat/Xuan-Son-Han-He-Thong-Tu-Cuu-Nhan-Vat-Phan-Dien-Yen-Co-Nguyet-Yue-Zhang/ZUCFA89E.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> 春山恨 - 渡渡狐 《人渣反派自救系统》
 <br> <a href="https://open.spotify.com/track/00cPBHWGBAnNeJaHpNfUKh?si=DJdZPiGpRCujKRzHhgH1IA"> 一花一劍(《天官賜福》動畫插曲)<a/>
 <br> <a href="https://youtu.be/rDhx4ejrPPA?list=RDrDhx4ejrPPA"> SÁNG MẮT CHƯA? - Trúc Nhân</a>
 <br> <a href="https://youtu.be/LetDNcvopbg?list=RDrDhx4ejrPPA"> Có Công Mài "Sắc" - Ngô Lan Hương</a>
