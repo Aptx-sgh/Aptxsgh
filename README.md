@@ -7,6 +7,8 @@ thnsk fof vysit <3
 
 ![e1f76e01d8a8e761169b0c81ad7da1b2](https://github.com/user-attachments/assets/43d18448-32b9-4619-9df7-918e8f7c2a1d)
 
+<img width="250" height="250" alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/11ca260b-526a-4549-8269-c41b78183791" />
+
 
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
