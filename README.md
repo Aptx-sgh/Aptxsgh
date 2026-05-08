@@ -17,7 +17,7 @@ thnsk fof vysit <3
 
 
 
-************
+----------
 </details>
 <div align="center">  
   <details>
