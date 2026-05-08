@@ -14,12 +14,7 @@ thnsk fof vysit <3
 <img width="50" src="https://github.com/user-attachments/assets/49c5d12c-3a59-4e5d-ade2-4f3b4e3820c4" />
 
 
-
-
-
-
-
-
+.
 </details>
 <div align="center">  
   <details>
