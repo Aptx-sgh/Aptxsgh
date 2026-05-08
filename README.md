@@ -14,7 +14,7 @@ thnsk fof vysit <3
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{A1942F}Musyc}$</summary>
+    <summary>${\textsf{\color{000000}Musyc}$</summary>
     <div align="center">
       <div align="center"> 
         <br> Youtube ;;
