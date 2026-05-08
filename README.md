@@ -9,7 +9,7 @@ thnsk fof vysit <3
 <img width="250" height="250" alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/11ca260b-526a-4549-8269-c41b78183791" />
 
 <div align="left"> <img width="50" height="50" alt="2c57c11a5eda862e873fa495ca954325" src="https://github.com/user-attachments/assets/1dcb3525-baff-4d70-af9e-756d4cd3267f" />
-<div align="center"> <img width="736" height="736" alt="aaf4cbebeef3ebe7190da5d2ba4cd0dc" src="https://github.com/user-attachments/assets/e4892b1d-b659-4d41-927b-7dec9beeff7a" />
+<div align="center"> <img width="50" height="50" alt="aaf4cbebeef3ebe7190da5d2ba4cd0dc" src="https://github.com/user-attachments/assets/e4892b1d-b659-4d41-927b-7dec9beeff7a" />
 
 
 ************
