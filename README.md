@@ -8,6 +8,7 @@ thnsk fof vysit <3
 
 <img width="250" height="250" alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/11ca260b-526a-4549-8269-c41b78183791" />
 
+<img width="200" height="200" alt="2c57c11a5eda862e873fa495ca954325" src="https://github.com/user-attachments/assets/1dcb3525-baff-4d70-af9e-756d4cd3267f" /> <div align="left">
 
 ************
 </details>
