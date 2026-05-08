@@ -36,9 +36,28 @@ thnsk fof vysit <3
 
 </a>
 </details>
-
-
-
+.
+</details>
+<div align="center">  
+  <details>
+    <summary>${\textsf{\color{FFFFFF}Musyc<3}}$</summary>
+    <div align="center">
+      <div align="center"> 
+<br>
+<table>
+  <tr>
+    <th>
+      $\color{c49927}\normalsize{\texttt{i spend most of my time offtab, but feel}}$ <br>
+      $\color{c49927}\normalsize{\texttt{free to interact or sit w me! i often}}$ <br>
+      $\color{c49927}\normalsize{\texttt{reply to whispers very late and arent}}$ <br>
+      $\color{c49927}\normalsize{\texttt{very good at continuing convos tho..}}$ <br>
+      $\color{c49927}\normalsize{\texttt{i promise im not ghosting you on purpose!}}$ <br>
+      $\color{c49927}\normalsize{\texttt{ idc about copying, queer infighting, or}}$ <br>
+      $\color{c49927}\normalsize{\texttt{ship discourse (proship dni tho).}}$ <br>
+    </th>
+  </tr>
+  </table>
+<br>
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
