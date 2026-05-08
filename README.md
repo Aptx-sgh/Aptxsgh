@@ -18,7 +18,7 @@ thnsk fof vysit <3
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{FFFFFF}Musyc<3}}$</summary>
+    <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
     <div align="center">
       <div align="center"> 
         <br> Youtube ; ZingMP3 ; Spotify;
@@ -40,7 +40,7 @@ thnsk fof vysit <3
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{FFFFFF}Musyc<3}}$</summary>
+    <summary>${\textsf{\color{FFFFFF}About me•⩊•}}$</summary>
     <div align="center">
       <div align="center"> 
 <br>
