@@ -42,21 +42,21 @@ thnsk fof vysit <3
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{FFFFFF}About me•⩊•}}$</summary>
+    <summary>${\textsf{\color{FFFFFF}About me⩊}}$</summary>
     <div align="center">
       <div align="center"> 
 <br>
 <table>
   <tr>
     <th>
-      $\color{c49927}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
-      $\color{c49927}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I don't like causing trouble, and don't cause trouble for me,}}$ <br>
-      $\color{c49927}\normalsize{\texttt{ so don't complain if I swear back at you.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
+      $\color{b64963}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{I don't like causing trouble, and don't cause trouble for me,}}$ <br>
+      $\color{b64963}\normalsize{\texttt{ so don't complain if I swear back at you.}}$ <br>
     </th>
   </tr>
   </table>
