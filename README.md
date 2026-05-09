@@ -49,17 +49,14 @@ thnsk fof vysit <3
 <table>
   <tr>
     <th>
-      $\color{c49927}\normalsize{\texttt{Im uslly inactive, feel fr}}$ <br>
-      $\color{c49927}\normalsize{\texttt{to hug/sit wth me.}}$ <br>
+      $\color{c49927}\normalsize{\texttt{Im uslly inactive, feel fr to hug/sit wth me.}}$ <br>
       $\color{c49927}\normalsize{\texttt{I welcom fr requests/interact.}}$ <br>
       $\color{c49927}\normalsize{\texttt{I support the LGBTQ+ community.}}$ <br>
       $\color{c49927}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
       $\color{c49927}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I'll tell you stories if you want, to}}$ <br>
-      $\color{c49927}\normalsize{\texttt{help you feel comfortable.}}$ <br>
-      $\color{c49927}\normalsize{\texttt{I don't like causing trouble, and don't}}$ <br>
-      $\color{c49927}\normalsize{\texttt{cause trouble for me, so don't complain}}$ <br>
-      $\color{c49927}\normalsize{\texttt{if I swear back at you.}}$ <br>
+      $\color{c49927}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
+      $\color{c49927}\normalsize{\texttt{I don't like causing trouble, and don't cause trouble for me,}}$ <br>
+      $\color{c49927}\normalsize{\texttt{ so don't complain if I swear back at you.}}$ <br>
     </th>
   </tr>
   </table>
