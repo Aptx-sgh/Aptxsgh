@@ -1,4 +1,4 @@
-<img width="678" height="678" alt="f7b1acc7023475950fed64d83c707226" src="https://github.com/user-attachments/assets/b22ac57e-6c8b-4ec7-946c-4c9aa7e5767b" />
+
 <div align="center">
 ## hy ther🕊
 
