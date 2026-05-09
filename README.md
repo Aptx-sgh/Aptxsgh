@@ -1,3 +1,4 @@
+<img width="678" height="678" alt="f7b1acc7023475950fed64d83c707226" src="https://github.com/user-attachments/assets/b22ac57e-6c8b-4ec7-946c-4c9aa7e5767b" />
 <div align="center">
 ## hy ther🕊
 
@@ -12,7 +13,7 @@ thnsk fof vysit <3
 <img width="50" src="https://github.com/user-attachments/assets/1dcb3525-baff-4d70-af9e-756d4cd3267f" />  
 <img width="50" src="https://github.com/user-attachments/assets/e4892b1d-b659-4d41-927b-7dec9beeff7a" />  
 <img width="50" src="https://github.com/user-attachments/assets/49c5d12c-3a59-4e5d-ade2-4f3b4e3820c4" />
-
+<img width="50" src="https://github.com/user-attachments/assets/b22ac57e-6c8b-4ec7-946c-4c9aa7e5767b" />
 
 .
 </details>
