@@ -42,7 +42,7 @@ thnsk fof vysit <3
 </details>
 <div align="center">  
   <details>
-    <summary>${\textsf{\color{FFFFFF}About me⩊}}$</summary>
+    <summary>${\textsf{\color{B64963}About me⩊}}$</summary>
     <div align="center">
       <div align="center"> 
 <br>
