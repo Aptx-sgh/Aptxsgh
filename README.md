@@ -66,13 +66,6 @@ thnsk fof vysit <3
 <br>
 
 
-Im usually inactive, feel free to hug/sit next to me.
-
-I welcome friend requests/interact.
-
-I support the LGBT+ community. I discriminate against pedophilia, bestiality, incest, negativity, etc.
-I'll tell you stories if you want, to help you feel comfortable.
-I don't like causing trouble, and don't cause trouble for me, so don't complain if I swear back at you.
 
 
         
