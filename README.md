@@ -44,6 +44,7 @@ thnsk fof vysit <3
   <details>
     <summary>${\textsf{\color{B64963}About me⩊}}$</summary>
     <div align="center">
+      <img width="146" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
       <div align="center"> 
 <br>
 <table>
@@ -56,7 +57,7 @@ thnsk fof vysit <3
       $\color{b64963}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
       $\color{b64963}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
       $\color{b64963}\normalsize{\texttt{I don't like causing trouble, and don't cause trouble for me,}}$ <br>
-      $\color{b64963}\normalsize{\texttt{ so don't complain if I swear back at you.}}$ <br>
+      $\color{b64963}\normalsize{\texttt{ so don't complain if I swear back at you.}}$ <br> 
     </th>
   </tr>
   </table>
