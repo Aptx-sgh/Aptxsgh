@@ -44,7 +44,7 @@ thnsk fof vysit <3
   <details>
     <summary>${\textsf{\color{B64963}About me⩊}}$</summary>
     <div align="center">
-      <img width="246" height="146" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
+      <img width="146" height="46" src="https://github.com/user-attachments/assets/41231d55-62a4-46a4-9d26-24d84ca722d9" />
       <div align="center"> 
 <br>
 <table>
