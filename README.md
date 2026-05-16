@@ -1,3 +1,4 @@
+<img width="917" height="937" alt="z7833222068978_afee9130b8f430191d1ae8396ecf31a0" src="https://github.com/user-attachments/assets/135ee04b-5fb1-45e3-8597-16e96cd2aa58" />
 
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> 
@@ -15,9 +16,9 @@ thnsk fof vysit <3
 <img alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/68522c9b-8b5e-4acb-a0ab-3da4d8ec2018" style="mix-blend-mode: screen;" div align="center"/> 
 
 -
-<img width="80" src="https://github.com/user-attachments/assets/920d8c5d-7975-42df-a811-34ce1b27f833" style="mix-blend-mode: mutiply;"/>
-<img width="80" src="https://github.com/user-attachments/assets/2294f882-54e9-4ead-ae84-2e1fc55429a4" style="mix-blend-mode: mutiply;"/>
-<img width="80" src="https://github.com/user-attachments/assets/5fef730a-b8f8-4ee1-9d84-8f0c0b776a72" style="mix-blend-mode: mutiply;"/>
+<img width="80" src="https://github.com/user-attachments/assets/42089150-fe41-4a9b-b991-9ac9db13ceca" style="mix-blend-mode: screen;"/>
+<img width="80" src="https://github.com/user-attachments/assets/42d327ba-9092-4ea0-8dc9-e150617474c7" style="mix-blend-mode: screen;"/>
+<img width="80" src="https://github.com/user-attachments/assets/38500777-b120-4a15-98f8-c8268f59984a" style="mix-blend-mode: screen;"/>
 
 .
 </details>
