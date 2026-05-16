@@ -35,7 +35,7 @@ thnsk fof vysit <3
 <br> <a href="https://youtu.be/LetDNcvopbg?list=RDrDhx4ejrPPA"> Có Công Mài "Sắc" - Ngô Lan Hương</a>
 <br> <a href="https://youtu.be/sZuix0W7xKY?list=RDsZuix0W7xKY"> Em Đây Chẳng Phải Thúy Kiều - Hoàng Thùy Linh</a>
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
-    <div align="left"> <img src="https://github.com/user-attachments/assets/5940f80a-a277-474c-8621-adb9ef6dbd8e" style="mix-blend-mode: multiply;"/>
+    <div align="left"> <img src="https://github.com/user-attachments/assets/5940f80a-a277-474c-8621-adb9ef6dbd8e" style="mix-blend-mode: screen;"/>
 
 
 </a>
