@@ -14,9 +14,9 @@ thnsk fof vysit <3
 
 <img alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/68522c9b-8b5e-4acb-a0ab-3da4d8ec2018" style="mix-blend-mode: screen;" div align="center"/> 
 
-<img width="100" src="https://github.com/user-attachments/assets/920d8c5d-7975-42df-a811-34ce1b27f833" style="mix-blend-mode: mutiply;"/>
+<img width="80" src="https://github.com/user-attachments/assets/920d8c5d-7975-42df-a811-34ce1b27f833" style="mix-blend-mode: mutiply;"/>
 <img width="80" src="https://github.com/user-attachments/assets/2294f882-54e9-4ead-ae84-2e1fc55429a4" style="mix-blend-mode: mutiply;"/>
-<img width="320" src="https://github.com/user-attachments/assets/5fef730a-b8f8-4ee1-9d84-8f0c0b776a72" style="mix-blend-mode: mutiply;"/>
+<img width="80" src="https://github.com/user-attachments/assets/5fef730a-b8f8-4ee1-9d84-8f0c0b776a72" style="mix-blend-mode: mutiply;"/>
 
 -
 
