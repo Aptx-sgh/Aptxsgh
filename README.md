@@ -7,7 +7,7 @@
 
 thnsk fof vysit <3
 
-<img alt="Profile Views" src="https://laobi.icu;">
+<img alt="Profile Views" src="https://laobi.icu/badge?page_id=Aptx-sgh&left_color=F0E68C&right_color=FAFAD&left_text=Cats⑅;"/>
 
 
 ![GitHub visitors](https://img.shields.io/github/visitors/Aptx-sgh?style=flat&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2)  <div align="centre">
