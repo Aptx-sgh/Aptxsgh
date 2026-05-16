@@ -7,7 +7,7 @@
 
 thnsk fof vysit <3
 
-<img src="https://github/followers/Aptx-sgh?flat-square&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2 ">  <div align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aptx-sgh?flat-square&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2 ">  <div align="center">
 
 
 <img width="250" height="250" alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/11ca260b-526a-4549-8269-c41b78183791"  div align="center"/> 
