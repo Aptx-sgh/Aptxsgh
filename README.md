@@ -7,6 +7,8 @@
 
 thnsk fof vysit <3
 ![GitHub visitors](https://img.shields.io/github/visitors/Aptx-sgh?style=flat&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2)  <div align="centre">
+![Profile Views](https://komarev.com/github/views/Aptx-sgh?style+flat&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2) <div align="centre">
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aptx-sgh?flat-square&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2 ">  <div align="center">
 
 
