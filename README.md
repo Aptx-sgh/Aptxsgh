@@ -1,11 +1,11 @@
-<img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;"/>
+<img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" div align="center"/>
 
 <div align="center">
 ## hy ther🕊
 
 thnsk fof vysit <3
 
-<img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=d5b893&style=flat-square&label=₍⑅ᐢ..ᐢ₎ ">  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=aptx-sgh&color=b64963&color=d5b893&style=flat-square&label=₍⑅ᐢ..ᐢ₎ ">  <div align="center">
 
 
 <img width="250" height="250" alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/11ca260b-526a-4549-8269-c41b78183791"  div align="center"/> 
