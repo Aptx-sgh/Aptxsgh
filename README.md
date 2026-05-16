@@ -1,4 +1,4 @@
-<img width="917" height="937" alt="z7832360716176_51dde08eebc21416714d06a8795514b0" src="https://github.com/user-attachments/assets/6df0cdf3-5994-4e83-acc1-b89b57d1f0d0" />
+
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> 
 
@@ -37,7 +37,7 @@ thnsk fof vysit <3
 <br> <a href="https://youtu.be/LetDNcvopbg?list=RDrDhx4ejrPPA"> Có Công Mài "Sắc" - Ngô Lan Hương</a>
 <br> <a href="https://youtu.be/sZuix0W7xKY?list=RDsZuix0W7xKY"> Em Đây Chẳng Phải Thúy Kiều - Hoàng Thùy Linh</a>
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
-    <div align="left"> <img width="217" height="237" src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
+    <div align="right"> <img width="317" height="337" src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
 
 
 </a>
