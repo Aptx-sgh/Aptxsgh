@@ -1,3 +1,4 @@
+<img width="776" height="111" alt="Screenshot 2026-03-11 205017" src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" />
 
 <div align="center">
 ## hy ther🕊
@@ -64,6 +65,7 @@ thnsk fof vysit <3
 <br>
 
 
+<img src="https://github.com/user-attachments/assets/817a8841-a844-48ba-91c3-9ce15377ba2d" style="mix-blend-mode: screen;"/>
 
 
         
