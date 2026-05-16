@@ -7,9 +7,7 @@
   
 thnsk fof vysit <3
 
-<img src="https://komarev.com/ghpvc/?username=Aptx-sgh&Color=FFDBE7&style=flat-square&label=Cats">
-<img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue%22%3E">
-<img alt="Static Badge" src="https://img.shields.io/badge/tiktok-pro5-blue?logo=tiktok">
+<img src="https://komarev.com/ghpvc/?username=Aptx-sgh&Color=FFDBE7&style=flat-square&label=Cats"> <div align="center">
 
 
 
