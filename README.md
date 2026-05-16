@@ -36,8 +36,7 @@ thnsk fof vysit <3
 <br> <a href="https://youtu.be/sZuix0W7xKY?list=RDsZuix0W7xKY"> Em Đây Chẳng Phải Thúy Kiều - Hoàng Thùy Linh</a>
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
 <br> <a href="https://youtu.be/yET2SBRuNm0?list=RDyET2SBRuNm0"> Thủ Đô Cypher - Beck'Stage X Biti's Hunter ( RPT Orijinn, LOW G, RZMas, RPT MCK)</a>
-
-<br> <img width="180" src="https://github.com/user-attachments/assets/4b2920f6-9f64-49bc-8248-fd7722a6e02d" style="mix-blend-mode: screen;"/> </a>
+<br> <img width="100" src="https://github.com/user-attachments/assets/4b2920f6-9f64-49bc-8248-fd7722a6e02d" style="mix-blend-mode: screen;"/> </a>
 
 
 
