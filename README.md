@@ -1,6 +1,3 @@
-<img width="917" height="937" alt="z7833222068978_afee9130b8f430191d1ae8396ecf31a0" src="https://github.com/user-attachments/assets/135ee04b-5fb1-45e3-8597-16e96cd2aa58" />
-
-
 <div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> 
 
 <div align="center">
