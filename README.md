@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> <div align="center">
+<div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> 
 
 <div align="center">
 ## hy ther🕊
