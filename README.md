@@ -24,7 +24,7 @@ thnsk fof vysit <3
 <div align="center">  
   <details>
     <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
-<div alig=right>    <img src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
+<div alig=right>    <img ưidth=233 src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
     <div align=left>    
     <br>
 <table>
