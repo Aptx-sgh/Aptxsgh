@@ -7,7 +7,7 @@
 
 thnsk fof vysit <3
 
-<p align=center> <img src="https://komarev.com/ghpvc/?username=Aptx-sgh&color=FFDBE7&style=flat-square&label=Cats">
+<img src="https://komarev.com/ghpvc/?username=Aptx-sgh&labelColor=FFDBE7&color=B64963&style=flat-square&label=Cats">
 
 
 <img width="250" height="250" alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/11ca260b-526a-4549-8269-c41b78183791"  div align="center"/> 
