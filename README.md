@@ -37,7 +37,7 @@ thnsk fof vysit <3
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
   
 <div alig=right> 
-  <img width="317" height="337" src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
+  <img width="217" height="237" src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
 
 
 </a>
