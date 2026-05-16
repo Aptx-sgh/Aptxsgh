@@ -8,6 +8,7 @@
 thnsk fof vysit <3
 
 <img src="https://komarev.com/ghpvc/?username=Aptx-sgh&color=b64963&style=flat-square&label=Cats"> <div align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/cute_stalkers-766-lightpink">
 
 
 
