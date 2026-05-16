@@ -6,7 +6,7 @@
 ## hy ther🕊
 
 thnsk fof vysit <3
-![GitHub followers](https://img.shields.io/github/followers/Aptx-sgh?style=flat&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2)
+![GitHub visitors](https://img.shields.io/github/visitors/Aptx-sgh?style=flat&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2)  <div align="centre">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aptx-sgh?flat-square&label=₍⑅ᐢ..ᐢ₎;&labelColor=F0E68C&color=FAFAD2 ">  <div align="center">
 
 
