@@ -1,3 +1,4 @@
+<img width="736" height="288" alt="002d7fc375d8ce5e2b20b16149c72bd2" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" />
 <div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> 
 
 <div align="center">
@@ -10,7 +11,7 @@ thnsk fof vysit <3
 <img alt="Static Badge" src="https://img.shields.io/badge/lover-3667-000000">
 
 
-<img alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/68522c9b-8b5e-4acb-a0ab-3da4d8ec2018" style="mix-blend-mode: screen;" div align="center"/> 
+<img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" style="mix-blend-mode: screen;" div align="center"/> 
 
 -
 <img width="80" src="https://github.com/user-attachments/assets/42089150-fe41-4a9b-b991-9ac9db13ceca" style="mix-blend-mode: screen;"/>
