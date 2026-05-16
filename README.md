@@ -12,7 +12,7 @@ thnsk fof vysit <3
 ![](https://komarev.com/ghpvc/?username=Aptx-sgh&label=lovers&color=121212)
 
 
-<img alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/68522c9b-8b5e-4acb-a0ab-3da4d8ec2018"  div align="center"/> 
+<img alt="33f464cc8b88a096952a05befa8b3d84" src="https://github.com/user-attachments/assets/68522c9b-8b5e-4acb-a0ab-3da4d8ec2018" style="mix-blend-mode: screen;" div align="center"/> 
 
 
 -
