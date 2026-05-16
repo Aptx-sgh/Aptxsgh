@@ -8,7 +8,7 @@
 thnsk fof vysit <3
 
 
-<img scr="https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&_text=visitor&left_color=green&right_color=yellow">
+<img scr="https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&_text=visitor&left_color=green&right_color=yellow"> <div align="centre">
 <img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightpink">
 
 
