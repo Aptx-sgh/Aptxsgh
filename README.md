@@ -1,4 +1,4 @@
-<img width="776" height="111" alt="Screenshot 2026-03-11 205017" src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" />
+<img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;"/>
 
 <div align="center">
 ## hy ther🕊
