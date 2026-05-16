@@ -36,7 +36,8 @@ thnsk fof vysit <3
 <br> <a href="https://youtu.be/sZuix0W7xKY?list=RDsZuix0W7xKY"> Em Đây Chẳng Phải Thúy Kiều - Hoàng Thùy Linh</a>
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
   
-<div alig=right> <img width="317" height="337" src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
+<div alig=right> 
+  <img width="317" height="337" src="https://github.com/user-attachments/assets/e20b2b31-b20d-4278-b80f-ac6a587031b1" style="mix-blend-mode: screen;"/>
 
 
 </a>
