@@ -9,7 +9,7 @@ thnsk fof vysit <3
 
 <img src="https://komarev.com/ghpvc/?username=Aptx-sgh&left_Color=FFDBE7&right_color=B64963&style=flat-square&label=Cats">
 <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue%22%3E">
-<img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue%3Flogo%3Dgithub">
+<img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github">
 
 
 
