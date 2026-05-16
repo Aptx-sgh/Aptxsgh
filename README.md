@@ -7,7 +7,7 @@
   
 thnsk fof vysit <3
 
-<img src="https://komarev.com/ghpvc/?username=Aptx-sgh&color=d3d3d3&style=flat-square&label=📷"> <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Aptx-sgh&color=d3d3d3&style=flat-square&label=📷"> <div align="center"> <img scr="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&_text=visitor&left_color=green&right_color=yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightpink">
 
 
