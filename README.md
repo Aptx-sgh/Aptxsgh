@@ -24,7 +24,6 @@ thnsk fof vysit <3
 <div align="center">  
   <details>
     <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
-    <div align=left>    
     <br>
 <table>
   <tr>
@@ -44,6 +43,7 @@ thnsk fof vysit <3
   </tr>
   </table>
 <br>
+<img width="280" src="https://github.com/user-attachments/assets/4b2920f6-9f64-49bc-8248-fd7722a6e02d" style="mix-blend-mode: screen;"/>
 
 
 
