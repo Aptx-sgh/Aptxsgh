@@ -7,8 +7,8 @@
   
 thnsk fof vysit <3
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=F5F6B3&right_color=E7E2DE&left_text=Hello%20Visitors) <p align="centre">
-<img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightcream">
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=f5f6b3&right_color=e7e2de&left_text=Hello%20Visitors) <p align="centre">
+<img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightgrey">
 ![](https://komarev.com/ghpvc/?username=Aptx-sgh&label=lover&color=d3d3d3)
 
 
