@@ -7,7 +7,7 @@
   
 thnsk fof vysit <3
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=sage&right_color=dark-orange&left_text=hi%20my%20besties) <p align="centre">
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=sage&right_color=DarkOrange&left_text=hi%20my%20besties) <p align="centre">
 <img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightgrey">
 ![](https://komarev.com/ghpvc/?username=Aptx-sgh&label=lovers&color=121212)
 
