@@ -11,7 +11,7 @@ thnsk fof vysit <3
 <img alt="Static Badge" src="https://img.shields.io/badge/lover-3667-000000">
 
 
-<img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" style="mix-blend-mode: screen;" div align="center"/> 
+<img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" div align="center" style="mix-blend-mode: screen;"/> 
 
 -
 <img width="80" src="https://github.com/user-attachments/assets/42089150-fe41-4a9b-b991-9ac9db13ceca" style="mix-blend-mode: screen;"/>
