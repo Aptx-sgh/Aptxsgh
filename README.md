@@ -14,16 +14,15 @@ thnsk fof vysit <3
 <img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" div align="center" style="mix-blend-mode: screen"/> 
 
 -
-<img width="80" src="https://github.com/user-attachments/assets/42089150-fe41-4a9b-b991-9ac9db13ceca" style="mix-blend-mode: screen"/>
-<img width="80" src="https://github.com/user-attachments/assets/42d327ba-9092-4ea0-8dc9-e150617474c7" style="mix-blend-mode: screen"/>
-<img width="80" src="https://github.com/user-attachments/assets/38500777-b120-4a15-98f8-c8268f59984a" style="mix-blend-mode: screen"/>
+<img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" width="100"/> 
+
 
 .
 </details>
 <div align="center">  
   <details>
     <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
-<br> Youtube ; ZingMP3 ; Spotify;  <br> <img width="200" height="301"src="https://github.com/user-attachments/assets/e8a7c03c-c56a-4d19-ba69-118485fa4a13" div align="right"/>
+<br> Youtube ; ZingMP3 ; Spotify;  
 <br> <a href="https://zingmp3.vn/bai-hat/Xuan-Son-Han-He-Thong-Tu-Cuu-Nhan-Vat-Phan-Dien-Yen-Co-Nguyet-Yue-Zhang/ZUCFA89E.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> 春山恨 - 渡渡狐 《人渣反派自救系统》<a/>
 <br> <a href="https://open,spotify.com/track/3susMyLCOJlzPUYviAAMrJ?si=neWmok0GTyiRLz7wSTQGjg"> 何以歌（《魔道祖师》广播剧主题曲）<a/>
 <br> <a href="https://open.spotify.com/track/00cPBHWGBAnNeJaHpNfUKh?si=DJdZPiGpRCujKRzHhgH1IA"> 一花一劍(《天官賜福》動畫插曲)<a/>
@@ -65,7 +64,8 @@ thnsk fof vysit <3
 
 <img src="https://github.com/user-attachments/assets/b7668e6d-94a8-40af-9c56-28049844e8bd" /> <div align="centre">
  
-<png width="448" height="649" alt="cứt" src="https://github.com/user-attachments/assets/bb8b3257-fb19-486d-b361-1705007a90e9" style="mix-blend-mode: screen"/>
+<img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" /> 
+
 
         
 <!--
