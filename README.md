@@ -65,6 +65,7 @@ thnsk fof vysit <3
 
 <img src="https://github.com/user-attachments/assets/b7668e6d-94a8-40af-9c56-28049844e8bd" /> <div align="centre">
  
+<png width="448" height="649" alt="cứt" src="https://github.com/user-attachments/assets/bb8b3257-fb19-486d-b361-1705007a90e9" style="mix-blend-mode: screen"/>
 
         
 <!--
