@@ -1,3 +1,4 @@
+
 <img src="https://github.com/user-attachments/assets/8f5e3d5f-ee79-4913-9c29-f88fe304a575" /> <div align="centre">
 
 
@@ -64,10 +65,8 @@ thnsk fof vysit <3
 <br>
 </details>
 
-<img src="https://github.com/user-attachments/assets/f5c08d7b-7783-492e-bd5a-36a1a2aa21f1" />
+<img src="https://github.com/user-attachments/assets/3d4bb221-d18b-414c-a395-c4a3a65e798e" />
 
-
-        
 <!--
 **Aptx-sgh/Aptx-sgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
