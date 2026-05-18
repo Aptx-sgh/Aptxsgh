@@ -15,6 +15,7 @@ thnsk fof vysit <3
 
 -
 <img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" width="100"/> 
+ <img src="https://github.com/user-attachments/assets/c4a488fb-21fe-4db4-a558-2c9189cf40dd" width="90"/>
 
 
 .
@@ -63,8 +64,7 @@ thnsk fof vysit <3
 
 
 <img src="https://github.com/user-attachments/assets/b7668e6d-94a8-40af-9c56-28049844e8bd" /> <div align="centre">
- 
-<img src="https://github.com/user-attachments/assets/b1b19d40-6a4d-433b-a20b-857e0e657a3a" /> 
+
 
 
         
