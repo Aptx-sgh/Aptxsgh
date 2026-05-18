@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/8b2a4072-503d-4b86-a805-343a8297fbd5" /> <div align="centre">
+<img src="https://github.com/user-attachments/assets/8f5e3d5f-ee79-4913-9c29-f88fe304a575" /> <div align="centre">
+
 
 
 <div align="center">
@@ -61,10 +62,9 @@ thnsk fof vysit <3
   </tr>
   </table>
 <br>
+</details>
 
-
-<img src="https://github.com/user-attachments/assets/b7668e6d-94a8-40af-9c56-28049844e8bd" /> <div align="centre">
-
+<img src="https://github.com/user-attachments/assets/f5c08d7b-7783-492e-bd5a-36a1a2aa21f1" />
 
 
         
