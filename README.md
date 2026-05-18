@@ -23,7 +23,7 @@ thnsk fof vysit <3
 <div align="center">  
   <details>
     <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
-    <div align="left"> <br> <img width="290" height="401"src="https://github.com/user-attachments/assets/cc010198-9547-42dd-ac0a-0f17ef787789" div align="right"/>
+    <div align="left"> <br> <img width="190" height="301"src="https://github.com/user-attachments/assets/cc010198-9547-42dd-ac0a-0f17ef787789" div align="right"/>
   <br> Youtube ; ZingMP3 ; Spotify; <br> 
 <br> <a href="https://zingmp3.vn/bai-hat/Xuan-Son-Han-He-Thong-Tu-Cuu-Nhan-Vat-Phan-Dien-Yen-Co-Nguyet-Yue-Zhang/ZUCFA89E.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> 春山恨 - 渡渡狐 《人渣反派自救系统》<a/>
 <br> <a href="https://open,spotify.com/track/3susMyLCOJlzPUYviAAMrJ?si=neWmok0GTyiRLz7wSTQGjg"> 何以歌（《魔道祖师》广播剧主题曲）<a/>
