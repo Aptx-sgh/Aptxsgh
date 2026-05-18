@@ -6,7 +6,7 @@
   
 thnsk fof vysit <3
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=black&right_color=beige&left_text=hi%20my%20besties) <p align="centre">
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Aptx-sgh.Aptx-sgh&left_color=skibidi&right_color=beige&left_text=hi%20my%20besties) <p align="centre">
 <img alt="Static Badge" src="https://img.shields.io/badge/i_love_you_<3-lightgrey">
 <img alt="Static Badge" src="https://img.shields.io/badge/lover-367-000000">
 
