@@ -1,6 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8b2a4072-503d-4b86-a805-343a8297fbd5" /> <div align="centre">
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen" /> 
-<div align="centre"> <img src="https://github.com/user-attachments/assets/2e1870d9-6155-49a2-8327-8b1c59c49b8a" />
 
 <div align="center">
 ## hy ther🕊
@@ -24,21 +23,19 @@ thnsk fof vysit <3
 <div align="center">  
   <details>
     <summary>${\textsf{\color{FFFFFF}Musyc}}$</summary>
-  <br> Youtube ; ZingMP3 ; Spotify;
+    <div align="left"> <br> <img width="290" height="401"src="https://github.com/user-attachments/assets/cc010198-9547-42dd-ac0a-0f17ef787789" div align="right"/>
+  <br> Youtube ; ZingMP3 ; Spotify; <br> 
 <br> <a href="https://zingmp3.vn/bai-hat/Xuan-Son-Han-He-Thong-Tu-Cuu-Nhan-Vat-Phan-Dien-Yen-Co-Nguyet-Yue-Zhang/ZUCFA89E.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> 春山恨 - 渡渡狐 《人渣反派自救系统》<a/>
 <br> <a href="https://open,spotify.com/track/3susMyLCOJlzPUYviAAMrJ?si=neWmok0GTyiRLz7wSTQGjg"> 何以歌（《魔道祖师》广播剧主题曲）<a/>
 <br> <a href="https://open.spotify.com/track/00cPBHWGBAnNeJaHpNfUKh?si=DJdZPiGpRCujKRzHhgH1IA"> 一花一劍(《天官賜福》動畫插曲)<a/>
 <br> <a href="https://youtu.be/yM8XxAwUM_M?list=RDyM8XxAwUM_M">| 心願便利貼 | CHỊ ĐẸP ĐẠP GIÓ 2026<a/>
 <br> <a href="https://zingmp3.vn/bai-hat/Tuyen-Ban-Gai-OgeNus-Dangrangto/Z8ECICDO.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> Tuyển Bạn Gái - Ogenus, Dangrangto<a/>
-<br> <a href="https://zingmp3.vn/bai-hat/Anh-Ten-La-Anh-Bang-24k-Right-Nhism-Ann-Nguyen/Z8D6EOUW.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> Anh Tên Là - Anh Bằng ,24k.Right ,Nhims ,Ann Nguyễn
+<br> <a href="https://zingmp3.vn/bai-hat/Anh-Ten-La-Anh-Bang-24k-Right-Nhism-Ann-Nguyen/Z8D6EOUW.html?utm_medium=zalomsg&utm_source=dapp&utm_campaign=share"> Anh Tên Là - Anh Bằng ,24k.Right ,Nhims ,Ann Nguyễn  
 <br> <a href="https://youtu.be/rDhx4ejrPPA?list=RDrDhx4ejrPPA"> SÁNG MẮT CHƯA? - Trúc Nhân</a>
 <br> <a href="https://youtu.be/LetDNcvopbg?list=RDrDhx4ejrPPA"> Có Công Mài "Sắc" - Ngô Lan Hương</a>
 <br> <a href="https://youtu.be/sZuix0W7xKY?list=RDsZuix0W7xKY"> Em Đây Chẳng Phải Thúy Kiều - Hoàng Thùy Linh</a>
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
-<br> <a href="https://youtu.be/yET2SBRuNm0?list=RDyET2SBRuNm0"> Thủ Đô Cypher - Beck'Stage X Biti's Hunter ( RPT Orijinn, LOW G, RZMas, RPT MCK)</a>
-<br> <img width="100" src="https://github.com/user-attachments/assets/4b2920f6-9f64-49bc-8248-fd7722a6e02d" style="mix-blend-mode: screen"/> </a>
-
-
+<br> <a href="https://youtu.be/yET2SBRuNm0?list=RDyET2SBRuNm0"> Thủ Đô Cypher - Beck'Stage X Biti's Hunter ( RPT Orijinn, LOW G, RZMas, RPT MCK)</a> <br> 
 
 </a>
 </details>
@@ -67,8 +64,8 @@ thnsk fof vysit <3
 <br>
 
 
-<img src="https://github.com/user-attachments/assets/817a8841-a844-48ba-91c3-9ce15377ba2d" style="mix-blend-mode: screen"/>
-
+<img src="https://github.com/user-attachments/assets/b7668e6d-94a8-40af-9c56-28049844e8bd" /> <div align="centre">
+ 
 
         
 <!--
