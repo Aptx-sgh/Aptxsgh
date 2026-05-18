@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen;" /> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/f4130932-cb8f-4da1-88dd-860eadd8ab9d" style="mix-blend-mode: screen" /> 
 
 <div align="center">
 ## hy ther🕊
@@ -11,12 +11,12 @@ thnsk fof vysit <3
 <img alt="Static Badge" src="https://img.shields.io/badge/lover-367-000000">
 
 
-<img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" div align="center" style="mix-blend-mode: screen;"/> 
+<img width="736" height="288" src="https://github.com/user-attachments/assets/d2396a23-f45b-4257-80d5-307f917d19e3" div align="center" style="mix-blend-mode: screen"/> 
 
 -
-<img width="80" src="https://github.com/user-attachments/assets/42089150-fe41-4a9b-b991-9ac9db13ceca" style="mix-blend-mode: screen;"/>
-<img width="80" src="https://github.com/user-attachments/assets/42d327ba-9092-4ea0-8dc9-e150617474c7" style="mix-blend-mode: screen;"/>
-<img width="80" src="https://github.com/user-attachments/assets/38500777-b120-4a15-98f8-c8268f59984a" style="mix-blend-mode: screen;"/>
+<img width="80" src="https://github.com/user-attachments/assets/42089150-fe41-4a9b-b991-9ac9db13ceca" style="mix-blend-mode: screen"/>
+<img width="80" src="https://github.com/user-attachments/assets/42d327ba-9092-4ea0-8dc9-e150617474c7" style="mix-blend-mode: screen"/>
+<img width="80" src="https://github.com/user-attachments/assets/38500777-b120-4a15-98f8-c8268f59984a" style="mix-blend-mode: screen"/>
 
 .
 </details>
@@ -35,7 +35,7 @@ thnsk fof vysit <3
 <br> <a href="https://youtu.be/sZuix0W7xKY?list=RDsZuix0W7xKY"> Em Đây Chẳng Phải Thúy Kiều - Hoàng Thùy Linh</a>
 <br> <a href="https://youtu.be/LiXYi-_MVa4?list=RDLiXYi-_MVa4"> two - bbno$</a>
 <br> <a href="https://youtu.be/yET2SBRuNm0?list=RDyET2SBRuNm0"> Thủ Đô Cypher - Beck'Stage X Biti's Hunter ( RPT Orijinn, LOW G, RZMas, RPT MCK)</a>
-<br> <img width="100" src="https://github.com/user-attachments/assets/4b2920f6-9f64-49bc-8248-fd7722a6e02d" style="mix-blend-mode: screen;"/> </a>
+<br> <img width="100" src="https://github.com/user-attachments/assets/4b2920f6-9f64-49bc-8248-fd7722a6e02d" style="mix-blend-mode: screen"/> </a>
 
 
 
@@ -66,7 +66,7 @@ thnsk fof vysit <3
 <br>
 
 
-<img src="https://github.com/user-attachments/assets/817a8841-a844-48ba-91c3-9ce15377ba2d" style="mix-blend-mode: screen;"/>
+<img src="https://github.com/user-attachments/assets/817a8841-a844-48ba-91c3-9ce15377ba2d" style="mix-blend-mode: screen"/>
 
 
         
