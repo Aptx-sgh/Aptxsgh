@@ -58,7 +58,7 @@ thnsk fof vysit <3
       $\color{b64963}\normalsize{\texttt{I discriminate against pedophilia,}}$ <br>
       $\color{b64963}\normalsize{\texttt{ bestiality, incest, negativity, etc!}}$ <br>
       $\color{b64963}\normalsize{\texttt{I'll tell you stories if you want, to help you feel comfortable.}}$ <br>
-      $\color{b64963}\normalsize{\texttt{I don't like causing trouble, and don't cause trouble for me,}}$ <br>
+      $\color{b64963}\normalsize{\texttt{FD: mxtx; rbbcr; tifosi; orange army; aov; helluva; hazbin; disney philes}}$ <br>
     </th>
   </tr>
   </table>
